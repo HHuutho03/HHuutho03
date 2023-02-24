@@ -1,5 +1,5 @@
 
-## 🌐Socials
+## HI!I'm Huu Tho <img src="https://random-memer.herokuapp.com/](https://tse1.mm.bing.net/th?id=OIP.fU3z0jgnmJOUSPEi8g4yhQHaHa&pid=Api&P=0)" width="512px"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tho-tran-6b6a94253/) 
 
 # 💻Tech Stack
