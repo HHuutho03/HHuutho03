@@ -1,5 +1,5 @@
 
-## HI!I'm Huu Tho <img src="https://camo.githubusercontent.com/d7e71723e2eac27913301769ffd9c1c0ecf3b1c5150ae551456aebb91e890312/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f393038352d746f746f726f2e706e67" />
+## HI!I'm Huu Tho <img src="https://i.pinimg.com/564x/0c/9b/2f/0c9b2fe5b58c6d4a98d0c6daa065a1f3.jpg"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tho-tran-6b6a94253/) 
 
 # 💻Tech Stack
