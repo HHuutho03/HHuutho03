@@ -1,5 +1,5 @@
 
-## HI!I'm Huu Tho <img src="https://i.pinimg.com/564x/0c/9b/2f/0c9b2fe5b58c6d4a98d0c6daa065a1f3.jpg"/>
+## HI!I'm Huu Tho <img src="https://i.pinimg.com/564x/0c/9b/2f/0c9b2fe5b58c6d4a98d0c6daa065a1f3.jpg" style="width:30px"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tho-tran-6b6a94253/) 
 
 # 💻Tech Stack
