@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Huu Tho !</h1>
+<h1 >Hi, I'm Huu Tho !  <img
+    src="https://i.pinimg.com/564x/6f/12/fe/6f12fe33bcca4ee537155cf39c0bc73f.jpg"
+    width="50"
+    alt="Huu Tho"
+  /></h1>
 
 <p align="center">
-  <img
-    src="https://i.pinimg.com/564x/6f/12/fe/6f12fe33bcca4ee537155cf39c0bc73f.jpg"
-    width="80"
-    alt="Huu Tho"
-  />
+ 
 </p>
 
 <h3 align="center">FullStack Developer · AI Engineer Developer</h3>
